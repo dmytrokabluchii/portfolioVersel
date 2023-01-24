@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://dmytrokabluchii.github.io/portfolio/">
+  <a href="https://portfolio-versel.vercel.app/">
     <img height="100" width="100" 
     src="https://img.icons8.com/plasticine/100/null/react.png"/>
   </a>
