@@ -6,7 +6,7 @@
   <h2 align="center">My portfolio: project created in React</h2>
 </p>
 
-Link to page: https://dmytrokabluchii.github.io/portfolio/
+Link to page: https://portfolio-versel.vercel.app/
 
 # Getting Started with Create React App
 
