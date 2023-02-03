@@ -1,5 +1,4 @@
 import gitHubIcon from './gitHub-black.svg';
-
 import './btnGitHub.css';
 
 const BtnGitHub = ({ link }) => {

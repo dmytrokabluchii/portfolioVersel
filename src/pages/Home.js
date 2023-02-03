@@ -2,7 +2,6 @@ import Header from './../components/header/Header';
 
 const Home = () => {
     return ( 
-        // Используем Фрагмент(чтобы не было ошибок синтаксиса JSX)
         <>
             <Header/>
             <main className="section">
