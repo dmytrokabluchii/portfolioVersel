@@ -1,22 +1,21 @@
-import project01 from './../img/projects/01.jpg';
-import project01Big from './../img/projects/01-big.jpg';
-import project02 from './../img/projects/02.jpg';
-import project02Big from './../img/projects/02-big.jpg';
-import project03 from './../img/projects/03.jpg';
-import project03Big from './../img/projects/03-big.jpg';
-import project04 from './../img/projects/04.jpg';
-import project04Big from './../img/projects/04-big.jpg';
-import project05 from './../img/projects/05.jpg';
-import project05Big from './../img/projects/05-big.jpg';
-import project06 from './../img/projects/06.jpg';
-import project06Big from './../img/projects/06-big.jpg';
-
-import project07 from './../img/projects/07.jpg';
-import project07Big from './../img/projects/07-big.jpg';
-import project08 from './../img/projects/08.jpg';
-import project08Big from './../img/projects/08-big.jpg';
-import project09 from './../img/projects/09.jpg';
-import project09Big from './../img/projects/09-big.jpg';
+import project01 from './../img/projects/01-min.jpg';
+import project01Big from './../img/projects/01-big-min.jpg';
+import project02 from './../img/projects/02-min.jpg';
+import project02Big from './../img/projects/02-big-min.jpg';
+import project03 from './../img/projects/03-min.jpg';
+import project03Big from './../img/projects/03-big-min.jpg';
+import project04 from './../img/projects/04-min.jpg';
+import project04Big from './../img/projects/04-big-min.jpg';
+import project05 from './../img/projects/05-min.jpg';
+import project05Big from './../img/projects/05-big-min.jpg';
+import project06 from './../img/projects/06-min.jpg';
+import project06Big from './../img/projects/06-big-min.jpg';
+import project07 from './../img/projects/07-min.jpg';
+import project07Big from './../img/projects/07-big-min.jpg';
+import project08 from './../img/projects/08a-min.jpg';
+import project08Big from './../img/projects/08a-big-min.jpg';
+import project09 from './../img/projects/09-min.jpg';
+import project09Big from './../img/projects/09-big-min.jpg';
 
 
 const projects = [
@@ -83,14 +82,23 @@ const projects = [
         gitHubLink: 'https://github.com/dmytrokabluchii/TourPlusGulpProject',
         pageLink: 'https://dmytrokabluchii.github.io/TourPlusGulpProject/',
     },
+    // {
+    //     title: 'Cahee',
+    //     about: 'Single page landing, responsive design, send data to e-mail',
+    //     skills: 'HTML, PHP(mail), SCSS, CSS3-animation, JS, jQuery',
+    //     img: project08,
+    //     imgBig: project08Big,
+    //     gitHubLink: 'https://github.com/dmytrokabluchii/my_projects/tree/master/Cahee_website',
+    //     pageLink: 'http://dimdim.byethost13.com/Cahee_website/',
+    // },
     {
-        title: 'Cahee',
-        about: 'Single page landing, responsive design, send data to e-mail',
-        skills: 'HTML, PHP(mail), SCSS, CSS3-animation, JS, jQuery',
+        title: 'Monticello-landing',
+        about: 'Single page landing, responsive design, used Pixel Perfect, send data to Telegram',
+        skills: 'HTML, SCSS , Java Script, AJAX, JSON, jQuery, Leaflet.js',
         img: project08,
         imgBig: project08Big,
-        gitHubLink: 'https://github.com/dmytrokabluchii/my_projects/tree/master/Cahee_website',
-        pageLink: 'http://dimdim.byethost13.com/Cahee_website/',
+        gitHubLink: 'https://github.com/dmytrokabluchii/my_projects/tree/master/Monticello_website',
+        pageLink: 'https://dmytrokabluchii.github.io/my_projects/Monticello_website/',
     },
     {
         title: 'Cahee with GSAP animation',
