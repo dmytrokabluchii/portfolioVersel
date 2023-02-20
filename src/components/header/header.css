@@ -47,3 +47,20 @@
 .header__text p + p {
 	margin-top: 0.5em;
 }
+
+
+@media (max-width: 380px)  {
+	.header__title {
+		font-size: 36px;
+	}
+	.header__title strong {
+		font-size: 48px;
+	}
+	.header__text {
+		font-size: 17px;
+	}
+	.header {
+		padding: 20px 0;
+		min-height: 630px;
+	}
+}

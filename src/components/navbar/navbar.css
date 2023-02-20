@@ -64,3 +64,28 @@
 	width: 100%;
 	background-color: var(--accent);
 }
+
+
+@media (max-width: 379px) {
+	.logo {
+		font-size: 22px;
+	}
+	.nav-row {
+		column-gap: 25px;
+		row-gap: 15px;
+	}
+	.nav-list {
+		column-gap: 25px;
+	}
+}
+@media (max-width: 349px) {
+	.logo {
+		font-size: 20px;
+	}
+	.nav-row {
+		column-gap: 20px;
+	}
+	.nav-list {
+		column-gap: 15px;
+	}
+}

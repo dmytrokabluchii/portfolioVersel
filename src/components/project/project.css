@@ -34,3 +34,11 @@
 	line-height: 1.3;
 	color: var(--project-card-text);
 }
+
+
+
+@media (max-width: 799px) {
+	.project {
+		max-width: 540px;
+	}
+}
