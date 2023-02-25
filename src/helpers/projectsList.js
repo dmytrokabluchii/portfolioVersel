@@ -49,7 +49,7 @@ const projects = [
     {
         title: 'Food-project',
         about: 'Single page landing, responsive design',
-        skills: 'HTML, CSS, Pure JS, JSON, AJAX, Webpuck, Core.js',
+        skills: 'HTML, CSS, Pure JS, JSON, AJAX, Webpack, Core.js',
         img: project04,
         imgBig: project04Big,
         gitHubLink: 'https://github.com/dmytrokabluchii/Food-project',
