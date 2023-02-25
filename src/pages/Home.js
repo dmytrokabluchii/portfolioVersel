@@ -11,7 +11,7 @@ const Home = () => {
                             <h2 className="title-2">Frontend skills</h2>
                             <p>HTML/HTML5, BEM, CSS/CSS3 (Flexbox, Grid Layout, CSS
                                 animation etc.), Preprocessors Saas(SCSS), JavaScript, AJAX, JSON,
-                                jQuery, ReactJS, Bootstrap, GSAP animation, NPM, Gulp, Webpack,
+                                jQuery, React, Bootstrap, GSAP animation, NPM, Gulp, Webpack,
                                 GIT, Git Kraken, Figma, Photoshop, Canva, Responsive design, Cross browser testing
                             </p>
                         </li>
