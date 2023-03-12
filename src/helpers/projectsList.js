@@ -22,7 +22,7 @@ const projects = [
     {
         title: 'Furniture-Shop',
         about: 'Single page landing, responsive web design, send data to Telegram',
-        skills: 'HTML, SCSS, Pure JS, AJAX, JSON, Swiper.js, Gulp',
+        skills: 'HTML, SCSS, JS, AJAX, JSON, Swiper.js, Gulp',
         img: project01,
         imgBig: project01Big,
         gitHubLink: 'https://github.com/dmytrokabluchii/FurnitureLanding',
@@ -31,7 +31,7 @@ const projects = [
     {
         title: 'Books-landing',
         about: 'Single page landing, responsive web design, send data to Telegram and e-mail, used Pixel Perfect',
-        skills: 'HTML, BEM, SCSS, Pure JS, AJAX, JSON, SmtpJS, Gulp',
+        skills: 'HTML, BEM, SCSS, JS, AJAX, JSON, SmtpJS, Gulp',
         img: project02,
         imgBig: project02Big,
         gitHubLink: 'https://github.com/dmytrokabluchii/Books_landing',
@@ -40,7 +40,7 @@ const projects = [
     {
         title: 'Suchi-shop',
         about: 'Single page, multi-language page, send data-order to Telegram',
-        skills: 'HTML, CSS, Pure JS, AJAX, JSON, Bootstrap',
+        skills: 'HTML, CSS, Vanilla JS, AJAX, JSON, Bootstrap',
         img: project03,
         imgBig: project03Big,
         gitHubLink: 'https://github.com/dmytrokabluchii/Sushi-shop',
@@ -49,7 +49,7 @@ const projects = [
     {
         title: 'Food-project',
         about: 'Single page landing, responsive design',
-        skills: 'HTML, CSS, Pure JS, JSON, AJAX, Webpack, Core.js',
+        skills: 'HTML, CSS, Vanilla JS, JSON, AJAX, Webpack, Core.js',
         img: project04,
         imgBig: project04Big,
         gitHubLink: 'https://github.com/dmytrokabluchii/Food-project',
@@ -58,7 +58,7 @@ const projects = [
     {
         title: 'My slider on pure JS',
         about: 'Counter in slider, responsive design',
-        skills: 'HTML, CSS, Pure Java Script',
+        skills: 'HTML, CSS, Vanilla JS',
         img: project05,
         imgBig: project05Big,
         gitHubLink: 'https://github.com/dmytrokabluchii/my_projects/tree/master/MySlider-InPureJS',
@@ -67,7 +67,7 @@ const projects = [
     {
         title: 'Project-Testing',
         about: 'Single page landing, responsive design, send data to Telegram',
-        skills: 'HTML, CSS , Pure Java Script',
+        skills: 'HTML, CSS, Vanilla Java Script',
         img: project06,
         imgBig: project06Big,
         gitHubLink: 'https://github.com/dmytrokabluchii/testLandingVanilla',
@@ -76,7 +76,7 @@ const projects = [
     {
         title: 'Tourplus - Travel Agency',
         about: 'Multi page landing, responsive design, selected content for the project',
-        skills: 'HTML, SCSS, Java Script, AJAX, JSON, jQuery,  Gulp, Telegram Bot API, Wow.js;',
+        skills: 'HTML, SCSS, Java Script, AJAX, JSON, jQuery, Gulp, Telegram Bot API, Wow.js;',
         img: project07,
         imgBig: project07Big,
         gitHubLink: 'https://github.com/dmytrokabluchii/TourPlusGulpProject',
@@ -94,7 +94,7 @@ const projects = [
     {
         title: 'Monticello-landing',
         about: 'Single page landing, responsive design, used Pixel Perfect, send data to Telegram',
-        skills: 'HTML, SCSS , Java Script, AJAX, JSON, jQuery, Leaflet.js',
+        skills: 'HTML, SCSS, Java Script, AJAX, JSON, jQuery, Leaflet.js',
         img: project08,
         imgBig: project08Big,
         gitHubLink: 'https://github.com/dmytrokabluchii/my_projects/tree/master/Monticello_website',
