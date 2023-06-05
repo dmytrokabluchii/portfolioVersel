@@ -82,15 +82,6 @@ const projects = [
         gitHubLink: 'https://github.com/dmytrokabluchii/TourPlusGulpProject',
         pageLink: 'https://dmytrokabluchii.github.io/TourPlusGulpProject/',
     },
-    // {
-    //     title: 'Cahee',
-    //     about: 'Single page landing, responsive design, send data to e-mail',
-    //     skills: 'HTML, PHP(mail), SCSS, CSS3-animation, JS, jQuery',
-    //     img: project08,
-    //     imgBig: project08Big,
-    //     gitHubLink: 'https://github.com/dmytrokabluchii/my_projects/tree/master/Cahee_website',
-    //     pageLink: 'http://dimdim.byethost13.com/Cahee_website/',
-    // },
     {
         title: 'Monticello-landing',
         about: 'Single page landing, responsive design, used Pixel Perfect, send data to Telegram',
@@ -107,7 +98,7 @@ const projects = [
         img: project09,
         imgBig: project09Big,
         gitHubLink: 'https://github.com/dmytrokabluchii/my_projects/tree/master/Cahee_website_anime',
-        pageLink: 'http://dimdim.byethost13.com/Cahee_website_anime/',
+        pageLink: 'https://cahee-website-with-animation.vercel.app/',
     },
 ]
 
