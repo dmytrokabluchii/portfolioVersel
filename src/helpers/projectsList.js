@@ -69,7 +69,7 @@ const projects = [
     },
     {
         title: 'Exchange Rate',
-        about: 'Current exchange rate(from UAN to USD,EUR,NOK), responsive design, ',
+        about: 'Current exchange rate(from UAN to USD,EUR,NOK), responsive design',
         skills: 'HTML, CSS, React, API National Bank of Ukraine',
         img: project10,
         imgBig: project10Big,
