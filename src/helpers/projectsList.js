@@ -16,6 +16,9 @@ import project08 from './../img/projects/08a-min.jpg';
 import project08Big from './../img/projects/08a-big-min.jpg';
 import project09 from './../img/projects/09-min.jpg';
 import project09Big from './../img/projects/09-big-min.jpg';
+import project10 from './../img/projects/10-min.jpg';
+import project10Big from './../img/projects/10-big-min.jpg';
+
 
 
 const projects = [
@@ -62,7 +65,16 @@ const projects = [
         img: project05,
         imgBig: project05Big,
         gitHubLink: 'https://github.com/dmytrokabluchii/my_projects/tree/master/MySlider-InPureJS',
-        pageLink: 'https://codepen.io/dima-kabluchii/pen/GRBPxOO',
+        pageLink: 'https://codepen.io/dima-kabluchii/full/GRBPxOO',
+    },
+    {
+        title: 'Exchange Rate',
+        about: 'Current exchange rate(from UAN to USD,EUR,NOK), responsive design, ',
+        skills: 'HTML, CSS, React, API National Bank of Ukraine',
+        img: project10,
+        imgBig: project10Big,
+        gitHubLink: 'https://codepen.io/dima-kabluchii/pen/JjawBeZ',
+        pageLink: 'https://codepen.io/dima-kabluchii/full/JjawBeZ',
     },
     {
         title: 'Project-Testing',
