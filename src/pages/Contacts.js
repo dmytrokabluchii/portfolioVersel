@@ -8,9 +8,10 @@ const Contacts = () => {
                     <li className="content-list__item">
                         <h2 className="title-2">Location</h2>
                         <p>
-                            <a href="https://www.google.com/maps/@49.0820641,33.4252849,13z"
+                            <a href="https://www.google.com/maps/@59.270540,11.095557,13z"
                                 rel="noopener noreferrer" target="_blank">
-                                Kremenchuk, Poltava region, Ukraine
+                                    Sarpsborg, Viken, Norway
+                                {/* Kremenchuk, Poltava region, Ukraine */}
                             </a>
                         </p>
                     </li>
@@ -18,6 +19,7 @@ const Contacts = () => {
                         <h2 className="title-2">Viber / WhatsApp</h2>
                         <p>
                             <a href="tel:+380679166323">+38 (067) 916-63-23</a>
+                            <a href="tel:+4747766239">+47 477-66-239</a>
                         </p>
                     </li>
                     <li className="content-list__item">
