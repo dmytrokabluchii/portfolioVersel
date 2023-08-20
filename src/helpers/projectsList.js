@@ -18,10 +18,21 @@ import project09 from './../img/projects/09-min.jpg';
 import project09Big from './../img/projects/09-big-min.jpg';
 import project10 from './../img/projects/10-min.jpg';
 import project10Big from './../img/projects/10-big-min.jpg';
+import project11 from './../img/projects/11-min.jpg';
+import project11Big from './../img/projects/11-big-min.jpg';
 
 
 
 const projects = [
+    {
+        title: 'The World Of Childhood',
+        about: 'Multi page landing, responsive design',
+        skills: 'WordPress, PHP, CSS, JS, Cookies',
+        img: project11,
+        imgBig: project11Big,
+        gitHubLink: 'https://github.com/dmytrokabluchii/',
+        pageLink: 'https://childhood-shop-example.000webhostapp.com/',
+    },
     {
         title: 'Furniture-Shop',
         about: 'Single page landing, responsive web design, send data to Telegram',
