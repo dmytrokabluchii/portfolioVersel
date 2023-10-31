@@ -25,13 +25,13 @@ import project11Big from './../img/projects/11-big-min.jpg';
 
 const projects = [
     {
-        title: 'The World Of Childhood',
-        about: 'Multi page landing, responsive design',
-        skills: 'WordPress, PHP, CSS, JS, Cookies',
+        title: 'Salong Sjarm',
+        about: 'Multi page landing, responsive design. Real working website for beauty salon in Norway',
+        skills: 'WordPress, PHP, CSS, JS',
         img: project11,
         imgBig: project11Big,
         gitHubLink: 'https://github.com/dmytrokabluchii/',
-        pageLink: 'https://childhood-shop-example.000webhostapp.com/',
+        pageLink: 'https://salongsjarm.com/',
     },
     {
         title: 'Furniture-Shop',
