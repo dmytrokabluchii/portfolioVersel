@@ -17,9 +17,7 @@ const Contacts = () => {
                     </li>
                     <li className="content-list__item">
                         <h2 className="title-2">Viber / WhatsApp</h2>
-                        <p>
-                            <a href="tel:+380990547260">+38 (099) 054-72-60</a>
-                        </p>
+                        <p> <a href="tel:+380990547260">+38 (099) 054-72-60</a> </p>
                         <p>
                             <a href="tel:+4747766239">+47 477-66-239</a>
                         </p>

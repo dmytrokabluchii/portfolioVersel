@@ -9,10 +9,10 @@ const Home = () => {
                     <ul className="content-list">
                         <li className="content-list__item">
                             <h2 className="title-2">Frontend skills</h2>
-                            <p>HTML/HTML5, BEM, CSS/CSS3 (Flexbox, Grid Layout, CSS
-                                animation etc.), Preprocessors Saas(SCSS), JavaScript, AJAX, JSON,
-                                jQuery, React, Bootstrap, GSAP animation, NPM, Gulp, Webpack,
-                                GIT, Git Kraken, Figma, Photoshop, Canva, Responsive design, Cross browser testing
+                            <p>HTML, BEM, CSS(Flexbox, Grid Layout, CSS animation etc.), 
+                                Preprocessors Saas(SCSS), JavaScript, AJAX, JSON,
+                                jQuery, React, WordPress, Bootstrap, GIT, Gulp, Webpack,
+                                Figma, Photoshop, Canva, Responsive design, Cross browser testing
                             </p>
                         </li>
                         <li className="content-list__item">
